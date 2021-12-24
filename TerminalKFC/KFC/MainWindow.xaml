@@ -1,0 +1,18 @@
+﻿<Window x:Class="KFC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KFC"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="892" Width="732" ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="383" VerticalAlignment="Top" Width="732" Source="/Img/XXL.jpg" Margin="139,-45,-139,0"/>
+        <Image HorizontalAlignment="Left" Height="349" Margin="0,253,0,0" VerticalAlignment="Top" Width="732" Source="Img/DI_bbqcrunchchicken.jpg"/>
+        <Image HorizontalAlignment="Left" Height="166" VerticalAlignment="Top" Width="176" Source="Img/1024px_KFC_logo.svg.png"/>
+        <Image HorizontalAlignment="Left" Height="422" Margin="0,455,0,0" VerticalAlignment="Top" Width="732" Source="/Img/kfc-sv.jpg"/>
+        <Button Content="Сделать заказ" HorizontalAlignment="Left" Margin="10,279,0,0" VerticalAlignment="Top" Width="704" Height="124" FontSize="72" FontFamily="Unispace" FontWeight="Bold" Opacity="0.85" Click="Button_Click"/>
+        <Border Name="border" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="892" VerticalAlignment="Top" Width="732" Background="#76000000" Visibility="Hidden"/>
+
+    </Grid>
+</Window>

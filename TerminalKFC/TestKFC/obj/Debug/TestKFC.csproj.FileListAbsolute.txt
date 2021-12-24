@@ -1,0 +1,40 @@
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\TestKFC.dll
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\TestKFC.pdb
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\KFC.exe
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\KFC.pdb
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\KFC.exe.config
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yakel\source\repos\KFC\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yakel\source\repos\KFC\TestKFC\obj\Debug\TestKFC.csprojAssemblyReference.cache
+C:\Users\Yakel\source\repos\KFC\TestKFC\obj\Debug\TestKFC.csproj.CoreCompileInputs.cache
+C:\Users\Yakel\source\repos\KFC\TestKFC\obj\Debug\TestKFC.csproj.CopyComplete
+C:\Users\Yakel\source\repos\KFC\TestKFC\obj\Debug\TestKFC.dll
+C:\Users\Yakel\source\repos\KFC\TestKFC\obj\Debug\TestKFC.pdb
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\TestKFC.dll
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\TestKFC.pdb
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\KFC.exe
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\KFC.pdb
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\KFC.exe.config
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\obj\Debug\TestKFC.csprojAssemblyReference.cache
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\obj\Debug\TestKFC.csproj.CoreCompileInputs.cache
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\obj\Debug\TestKFC.csproj.CopyComplete
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\obj\Debug\TestKFC.dll
+C:\Users\Gen\Desktop\ТИС\Терминал KFC\KFC_Terminal-master\TestKFC\obj\Debug\TestKFC.pdb
